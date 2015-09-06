@@ -1,0 +1,2 @@
+# QTsilnia
+Prosta aplikacja okienkowa
